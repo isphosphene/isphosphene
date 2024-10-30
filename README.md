@@ -2,7 +2,7 @@
 
 > ## About me and My Projects 🌿
 - My name is **Alisher**, I live in Kazakhstan and I am 19 years old
-- My best projects are **Ticketon** and **TicketManager**
+- My best projects are **Wind**, **Ticketon** and **TicketManager**
 
 > ## Langugages & Tools
 ![TypeScript](https://camo.githubusercontent.com/52a5856c7886200123463af53e95d03db5ace0b1e69f45da4792f7f02c029c28/68747470733a2f2f736869656c64732e696f2f62616467652f2d547970655363726970742d3039303930393f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074)
